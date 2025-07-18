@@ -1,0 +1,20 @@
+Date,Resource,Action,Qty
+17-07-2025 10:04,beakers,use,10
+17-07-2025 10:04,beakers,use,10
+17-07-2025 10:05,beakers,use,10
+17-07-2025 10:05,beakers,use,10
+17-07-2025 10:06,beakers,return,10
+17-07-2025 10:06,beakers,use,10
+17-07-2025 10:06,beakers,return,10
+17-07-2025 10:43,beakers,use,10
+17-07-2025 11:34,beakers,use,10
+17-07-2025 11:34,beakers,return,10
+17-07-2025 12:15,test tubes,use,10
+17-07-2025 12:15,test tubes,return,10
+17-07-2025 12:28,test tubes,use,10
+17-07-2025 12:58,microscope slides,use,10
+17-07-2025 12:59,microscope slides,return,20
+17-07-2025 14:22,microscope slides,use,10
+2025-07-18 10:48:16,acetone,use,57
+2025-07-18 10:48:46,acetone,return,30
+2025-07-18 11:15:37,test tubes,use,10
